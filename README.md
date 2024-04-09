@@ -1,0 +1,2 @@
+# Improving-Precision-Agriculture-by-utilizing-Resnet-152-for-Cassava-Plant-Disease-Detection
+Improving crop health monitoring and cassava plant disease detection using ResNet-152 is a promising approach in modern agriculture. ResNet-152 is a deep-learning model known for its exceptional performance in image recognition tasks. By leveraging this powerful neural network, we can enhance the accuracy and efficiency .
