@@ -6,3 +6,4 @@ The model should be capable of accurately distinguishing between healthy leaves 
 This  solution aims to assist farmers and agricultural experts in early detection and proper mangement of cassava diseases, thereby improving crop yield, minimizing economic losses , and ensuring food security.
 
 
+
