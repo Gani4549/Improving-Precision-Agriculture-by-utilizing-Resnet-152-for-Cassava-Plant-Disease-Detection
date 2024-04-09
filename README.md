@@ -4,6 +4,6 @@ The project mainly discusses about the detection of cassava plant disease . The 
 The goal is to create a system that can automatically analyze images of cassava leaves and classify them into different disease categories, including but not limited to cassava mossaic disease, cassava bacterial blight, and cassava brown streak disease.
 The model should be capable of accurately distinguishing between healthy leaves and leaves affected by various diseases. 
 This  solution aims to assist farmers and agricultural experts in early detection and proper mangement of cassava diseases, thereby improving crop yield, minimizing economic losses , and ensuring food security.
-
+Data set Link-https://www.kaggle.com/c/cassava-leaf-disease-classification/data
 
 
